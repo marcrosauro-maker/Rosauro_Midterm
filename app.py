@@ -1,1 +1,1 @@
-helloboy
+print ("china")
